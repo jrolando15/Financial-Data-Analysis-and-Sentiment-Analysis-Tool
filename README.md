@@ -9,7 +9,7 @@ This project aims to build a comprehensive tool for financial data analysis and 
 - [Project Structure](#project-structure)
 - [Data Processing](#data-processing)
 - [Financial Analysis](#financial-analysis)
-- [Sentiment Analysis](#sentiment-analyis)
+- [Sentiment Analysis](#sentiment-analysis)
 - [Results](#results)
 - [Future Work](#future-work)
 - [License](#license)
@@ -41,7 +41,7 @@ cd Financial-Data-Analysis-and-Sentiment-Analysis-Tool
 model.ipynb
 ```
 
-#Project Structure
+# Project Structure
 ```bash
 Financial-Data-Analysis-and-Sentiment-Analysis-Tool/
 ├── model.ipynb                       # Main Jupyter Notebook with the code
@@ -347,14 +347,20 @@ Name: count, dtype: int64
 ```
 
 # Future Work
-In the future, I intend to improve the project by developing a user-friendly application that allows users to input information for a specific company. The app will provide the following features:
-Financial Information: Retrieve and display detailed financial reports for the specified company.
-Stock Prices: Fetch and visualize historical and current stock prices for the company.
-News: Aggregate and analyze news articles related to the company, with sentiment analysis to gauge public opinion.
-Investment Plan: Generate an investment plan based on the financial information, stock prices, and news sentiment. The app will provide recommendations on whether it is a good idea to invest in the company.
-By integrating these features, the app will offer comprehensive insights and assist users in making informed investment decisions.
+<div style="text-align: justify;">
+  In the future, I intend to improve the project by developing a user-friendly application that allows users to input information for a specific company. The app will provide the following features:
+  <ul>
+    <li><strong>Financial Information:</strong> Retrieve and display detailed financial reports for the specified company.</li>
+    <li><strong>Stock Prices:</strong> Fetch and visualize historical and current stock prices for the company.</li>
+    <li><strong>News:</strong> Aggregate and analyze news articles related to the company, with sentiment analysis to gauge public opinion.</li>
+    <li><strong>Investment Plan:</strong> Generate an investment plan based on the financial information, stock prices, and news sentiment. The app will provide recommendations on whether it is a good idea to invest in the company.</li>
+  </ul>
+  By integrating these features, the app will offer comprehensive insights and assist users in making informed investment decisions.
+</div>
 
-any inquires in working together in this project, you can reach out to me through jrolandocollege@gmail.com
+<div style="text-align: justify;">
+  Any inquiries about working together on this project, you can reach out to me through jrolandocollege@gmail.com.
+</div>
 
 # License
 This README template includes all the pertinent information about your project, such as installation instructions, usage, project structure, data processing, model training, model evaluation, and details about the web application. It also includes sections for contributing and licensing, which are important for open-source projects.
